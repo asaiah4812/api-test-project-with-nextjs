@@ -1,0 +1,12 @@
+.container{
+    margin: 2rem auto;
+    text-align: center;
+    height: 80vh;
+}
+
+.container input{
+    padding: 1rem;
+    border-radius: 5px;
+    
+}
+

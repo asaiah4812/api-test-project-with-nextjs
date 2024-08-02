@@ -1,0 +1,19 @@
+.user{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.list{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.list ul li{
+    list-style: none;
+}
+
+.list ul li a{
+    text-decoration: none;
+}

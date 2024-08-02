@@ -1,0 +1,7 @@
+.post ul{
+    display: flex;
+    flex-direction: column;
+    }
+.post ul li{
+    list-style-type:lower-alpha;
+}
